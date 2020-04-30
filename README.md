@@ -51,7 +51,7 @@ cd dork-eye
 pip3 install -r requirements.txt
 ***
 
-#Dorks Eye Usage
+# Dorks Eye Usage
 
 sudo python3 dorks-eye.py
 
