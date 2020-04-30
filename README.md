@@ -8,6 +8,9 @@ Here you can read the article about Dorks Eye:
 https://hackingpassion.com/dorks-eye-google-hacking-dork-scraping-and-searching-script/
 ****
 
+![Screenshot](banner_dork1.png)
+***
+
 You can save the output in a file so that you can view it at a later time. You can determine the number of searches yourself. The number of websites to display
 
 You can also use Dorks Eye as a command-line interface (CLI) to quickly search through Google. Dorks Eye shows only the links, without advertising, and is and is also fast.
