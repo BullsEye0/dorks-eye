@@ -18,6 +18,7 @@ You can also use Dorks Eye as a command-line interface (CLI) to quickly search t
 But be careful not to overdo it, otherwise, you have a chance that If you perform too many requests over a short period, Google will start to throw captchas at you. This is annoying and will limit how much or how fast you do the search.
 ****
 
+
 # What data can we find using Google Dorks?
 
 Username and passwords
@@ -28,6 +29,9 @@ Email lists
 Bank account details
 Vulnerable websites
 So much more …
+****
+
+![Screenshot](Img/dorks-eye.png)
 ****
 
 # Install Dorks Eye
@@ -59,11 +63,17 @@ That’s all ..!
 Have fun 😃
 ****
 
+![Screenshot](Img/vb2.png)
+****
+
 ## A collection Google Dork List:
 Google Dork List
 Google helps you to find Vulnerable Websites that Indexed in Google Search Results. Here is the latest collection of Google Dorks. A collection of 13.760 Dorks ..! This list is regularly updated !.
 .
-* https://github.com/BullsEye0/shodan-eye/blob/master/Shodan_Dorks_The_Internet_of_Sh*t.txt
+* https://github.com/BullsEye0/google_dork_list
+****
+
+![Screenshot](Img/banner_dork-list.png)
 ****
 
 ## I also want to make you aware that:
