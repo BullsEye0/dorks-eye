@@ -76,6 +76,10 @@ Google helps you to find Vulnerable Websites that Indexed in Google Search Resul
 ![Screenshot](Img/banner_dork-list.png)
 ****
 
+## Video Dorks Eye on YouTube:
+[Link to: Shodan Eye on YouTube](https://youtu.be/fOqmlOLiMsQ "Shodan Eye on YouTube")
+****
+
 ## I also want to make you aware that:
 * This was written for educational purpose and pentest only.
 * The author will not be responsible for any damage ..!
@@ -84,18 +88,6 @@ Google helps you to find Vulnerable Websites that Indexed in Google Search Resul
 * This information shall only be used to expand knowledge and not for
 causing malicious or damaging attacks.
 * Performing any hacks without written permission is illegal ..!
-****
-
-![Screenshot](img/ShodanEyeB.png)
-****
-![Screenshot](img/ShodanEye2.png)
-****
-![Screenshot](img/ShodanEye3.png)
-****
-
-## Video Dorks Eye on YouTube:
-[Link to: Shodan Eye on YouTube](https://youtu.be/fOqmlOLiMsQ "Shodan Eye on YouTube")
-
 ****
 
 # Contact to coder
