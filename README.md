@@ -1,4 +1,4 @@
-# Dorks Eye
+## Dorks Eye
 **Dorks Eye Google Hacking Dork Scraping and Searching Script**
 
 Dorks Eye is a script I made in python 3. With this tool, you can easily find Google Dorks. Dork Eye collects potentially vulnerable web pages and applications on the Internet or other awesome info that is picked up by Google's search bots. 
@@ -36,7 +36,7 @@ So much more …
 ![Screenshot](Img/dorks-eye.png)
 ****
 
-# Install Dorks Eye
+## Install Dorks Eye
 A prerequisite for a script that I make must be that it is simple and easy to use and understand for everyone.
 
 Dorks Eye has tested it so far on:
@@ -51,7 +51,7 @@ This list would be expanded
 Dork Eye is written for Python 3. Clone the git repository and install the requirements.
 ****
 
-## Linux
+# Linux
 sudo git clone https://github.com/BullsEye0/dorks-eye.git
 
 cd dorks-eye
@@ -65,9 +65,8 @@ sudo python3 dorks-eye.py
 That’s all ..!
 Have fun 😃
 ****
-****
 
-## Termux
+# Termux
 
 git clone https://github.com/BullsEye0/dorks-eye.git
 
@@ -75,7 +74,7 @@ cd dorks-eye
 
 pip install -r requirements.txt
 
-*Usage Termux*
+#Usage Termux
 
 python dorks-eye.py
 
