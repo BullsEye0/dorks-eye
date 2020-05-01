@@ -50,7 +50,7 @@ This list would be expanded
 Dork Eye is written for Python 3. Clone the git repository and install the requirements.
 ****
 
-sudo git clone https://github.com/BullsEye0/dork-eye.git
+sudo git clone https://github.com/BullsEye0/dorks-eye.git
 
 cd dork-eye
 
