@@ -74,7 +74,7 @@ cd dorks-eye
 
 pip install -r requirements.txt
 
-#Usage Termux
+# Usage Termux
 
 python dorks-eye.py
 
