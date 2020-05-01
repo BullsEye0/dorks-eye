@@ -43,6 +43,7 @@ Dorks Eye has tested it so far on:
 * Kali Linux
 * Parrot Security
 * BlackArch
+* Termux
 
 This list would be expanded
 ****
@@ -50,19 +51,34 @@ This list would be expanded
 Dork Eye is written for Python 3. Clone the git repository and install the requirements.
 ****
 
+## Linux
 sudo git clone https://github.com/BullsEye0/dorks-eye.git
 
-cd dork-eye
+cd dorks-eye
 
 pip3 install -r requirements.txt
-***
 
-# Dorks Eye Usage
+# Dorks Eye Usage Linux
 
 sudo python3 dorks-eye.py
 
 That’s all ..!
 Have fun 😃
+****
+****
+
+## Termux
+
+git clone https://github.com/BullsEye0/dorks-eye.git
+
+cd dorks-eye
+
+pip install -r requirements.txt
+
+*Usage Termux*
+
+python dorks-eye.py
+
 ****
 
 ![Screenshot](Img/vb2.png)
