@@ -76,7 +76,8 @@ for col in banner:
 x = ("""
                 Author:  Jolanda de Koff | Bulls Eye
                 Github:  https://github.com/BullsEye0
-                Website: https://HackingPassion.com \n """)
+                Website: https://HackingPassion.com
+                Patreon: https://www.patreon.com/jolandadekoff\n """)
 for col in x:
     print(colors.CBLUE2 + col, end="")
     sys.stdout.flush()
