@@ -2,14 +2,17 @@
 # This Python file uses the following encoding: utf-8
 
 # ===== #
-# Jolanda de Koff
-# Bulls Eye: https://github.com/BullsEye0
-# Website: https://hackingpassion.com
-# linkedin: https://www.linkedin.com/in/jolandadekoff
-# Facebook: facebook.com/jolandadekoff
-# Facebook Page: https://www.facebook.com/ethical.hack.group
-# Facebook Group: https://www.facebook.com/groups/hack.passion/
-# YouTube: https://www.youtube.com/BullsEyeJolandadeKoff
+#   
+# ▀█████████▄     ▄████████         Websites: HackingPassion.com | Bullseye0.com
+#   ███    ███   ███    ███         Author: Jolanda de Koff | Bulls Eye
+#   ███    ███   ███    █▀          GitHub: https://github.com/BullsEye0
+#  ▄███▄▄▄██▀   ▄███▄▄▄             linkedin: https://www.linkedin.com/in/jolandadekoff
+# ▀▀███▀▀▀██▄  ▀▀███▀▀▀             Facebook Group: https://www.facebook.com/groups/hack.passion/
+#   ███    ██▄   ███    █▄          Facebook: https://www.facebook.com/profile.php?id=100069546190609
+#   ███    ███   ███    ███         Twitter: https://twitter.com/bulls__eye
+# ▄█████████▀    ██████████         LBRY: https://lbry.tv/$/invite/@hackingpassion:9
+#                                   Patreon: https://www.patreon.com/jolandadekoff
+#          Bulls Eye..!
 # ===== #
 
 # ===== #
