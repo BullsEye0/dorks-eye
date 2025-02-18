@@ -1,7 +1,7 @@
 ## Dorks Eye
 **Dorks Eye Google Hacking Dork Scraping and Searching Script**
 
-Dorks Eye is a script I made in python 3. With this tool, you can easily find Google Dorks. Dork Eye collects potentially vulnerable web pages and applications on the Internet or other awesome info that is picked up by Google's search bots. 
+Dorks Eye is a script I made in Python 3. With this tool, you can easily find Google Dorks. Dork Eye collects potentially vulnerable web pages and applications on the Internet or other awesome info that is picked up by Google's search bots. 
 
 ****
 
@@ -45,22 +45,36 @@ Dorks Eye has tested it so far on:
 * BlackArch
 * Termux
 
-This list would be expanded
+This list will be expanded
 ****
 
 Dork Eye is written for Python 3. Clone the git repository and install the requirements.
 ****
 
+# Installing Dorks Eye in a Virtual Environment
+
+Recent changes in Parrot OS and Kali Linux require Dorks Eye to be installed in an isolated Python environment to avoid dependency conflicts. Follow these steps to set up the tool properly:
+
+# Create a Virtual Environment
+
+```python3 -m venv dorks-eye-env```
+
+```source dorks-eye-env/bin/activate```
+
 # Linux
-sudo git clone https://github.com/BullsEye0/dorks-eye.git
+```sudo git clone https://github.com/BullsEye0/dorks-eye.git```
 
-cd dorks-eye
+```cd dorks-eye```
 
-pip3 install -r requirements.txt
+```pip3 install -r requirements.txt```
 
 # Dorks Eye Usage Linux
 
-sudo python3 dorks-eye.py
+```sudo python3 dorks-eye.py```
+
+To deactivate the virtual environment when done, run:
+
+`deactivate`
 
 That’s all ..!
 Have fun 😃
@@ -68,15 +82,15 @@ Have fun 😃
 
 # Termux
 
-git clone https://github.com/BullsEye0/dorks-eye.git
+```git clone https://github.com/BullsEye0/dorks-eye.git```
 
-cd dorks-eye
+```cd dorks-eye```
 
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 
 # Usage Termux
 
-python dorks-eye.py
+```python dorks-eye.py```
 
 ****
 
@@ -85,7 +99,7 @@ python dorks-eye.py
 
 ## A collection Google Dork List:
 Google Dork List
-Google helps you to find Vulnerable Websites that Indexed in Google Search Results. Here is the latest collection of Google Dorks. A collection of 13.760 Dorks ..! This list is regularly updated !.
+Google helps you to find Vulnerable Websites that are Indexed in Google Search Results. Here is the latest collection of Google Dorks. A collection of 13.760 Dorks ..! This list is regularly updated !.
 .
 * https://github.com/BullsEye0/google_dork_list
 ****
@@ -98,12 +112,11 @@ Google helps you to find Vulnerable Websites that Indexed in Google Search Resul
 ****
 
 ## I also want to make you aware that:
-* This was written for educational purpose and pentest only.
+* This was written for educational purposes and pentest only.
 * The author will not be responsible for any damage ..!
 * The author of this tool is not responsible for any misuse of the information.
 * You will not misuse the information to gain unauthorized access.
-* This information shall only be used to expand knowledge and not for
-causing malicious or damaging attacks.
+* This information shall only be used to expand knowledge and not to cause malicious or damaging attacks.
 * Performing any hacks without written permission is illegal ..!
 ****
 
