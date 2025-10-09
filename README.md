@@ -123,15 +123,6 @@ Google helps you to find Vulnerable Websites that are Indexed in Google Search R
 [Link to: Dorks Eye on YouTube](https://youtu.be/fOqmlOLiMsQ "Dorks Eye on YouTube")
 ****
 
-## I also want to make you aware that:
-* This was written for educational purposes and pentest only.
-* The author will not be responsible for any damage ..!
-* The author of this tool is not responsible for any misuse of the information.
-* You will not misuse the information to gain unauthorized access.
-* This information shall only be used to expand knowledge and not to cause malicious or damaging attacks.
-* Performing any hacks without written permission is illegal ..!
-****
-
 # Contact to coder
 Social Networks - Connect
 
