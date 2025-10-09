@@ -1,7 +1,7 @@
 ## Dorks Eye
 **Dorks Eye Google Hacking Dork Scraping and Searching Script**
 
-Dorks Eye is a script I made in Python 3. With this tool, you can easily find Google Dorks. Dork Eye collects potentially vulnerable web pages and applications on the Internet or other awesome info that is picked up by Google's search bots. 
+Dorks Eye is a script I made in Python 3. With this tool, you can easily find Google Dorks. Dorks Eye collects potentially vulnerable web pages and applications on the Internet or other awesome info that is picked up by Google's search bots. 
 
 ****
 
@@ -17,7 +17,7 @@ You can save the output in a file so that you can view it at a later time. You c
 
 You can also use Dorks Eye as a command-line interface (CLI) to quickly search through Google. Dorks Eye shows only the links, without advertising, and is and is also fast.
 
-But be careful not to overdo it, otherwise, you have a chance that If you perform too many requests over a short period, Google will start to throw captchas at you. This is annoying and will limit how much or how fast you do the search.
+But be careful not to overdo it; otherwise, you have a chance that If you perform too many requests over a short period, Google will start to throw captchas at you. This is annoying and will limit how much or how fast you do the search.
 ****
 
 
@@ -55,42 +55,54 @@ Dork Eye is written for Python 3. Clone the git repository and install the requi
 
 Recent changes in Parrot OS and Kali Linux require Dorks Eye to be installed in an isolated Python environment to avoid dependency conflicts. Follow these steps to set up the tool properly:
 
-# Create a Virtual Environment
+## Installation Steps:
 
-```python3 -m venv dorks-eye-env```
+1. **Clone the repository:**
+```bash
+git clone https://github.com/BullsEye0/dorks-eye.git
+cd dorks-eye
+```
 
-```source dorks-eye-env/bin/activate```
+2. **Create a virtual environment (recommended):**
+```bash
+python3 -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+```
 
-# Linux
-```sudo git clone https://github.com/BullsEye0/dorks-eye.git```
+3. **Install dependencies:**
+```bash
+pip3 install -r requirements.txt
+```
 
-```cd dorks-eye```
+****
 
-```pip3 install -r requirements.txt```
-
-# Dorks Eye Usage Linux
-
-```sudo python3 dorks-eye.py```
+# How to use Dorks Eye
+```bash
+python3 dorks-eye.py
+```
 
 To deactivate the virtual environment when done, run:
+```bash
+deactivate
+```
 
-`deactivate`
-
-That’s all ..!
+That's all ..!
 Have fun 😃
 ****
 
 # Termux
 
-```git clone https://github.com/BullsEye0/dorks-eye.git```
-
-```cd dorks-eye```
-
-```pip install -r requirements.txt```
+```bash
+git clone https://github.com/BullsEye0/dorks-eye.git
+cd dorks-eye
+pip install -r requirements.txt
+```
 
 # Usage Termux
 
-```python dorks-eye.py```
+```bash
+python dorks-eye.py
+```
 
 ****
 
@@ -108,7 +120,7 @@ Google helps you to find Vulnerable Websites that are Indexed in Google Search R
 ****
 
 ## Video Dorks Eye on YouTube:
-[Link to: Shodan Eye on YouTube](https://youtu.be/fOqmlOLiMsQ "Shodan Eye on YouTube")
+[Link to: Dorks Eye on YouTube](https://youtu.be/fOqmlOLiMsQ "Dorks Eye on YouTube")
 ****
 
 ## I also want to make you aware that:
@@ -129,13 +141,32 @@ Social Networks - Connect
 
 * [linkedin](https://www.linkedin.com/in/jolandadekoff/)
 
-* [Youtube](https://youtu.be/XCtWM-4ov2U)
+* [Youtube](https://www.youtube.com/@HackingPassion)
 
 * [Facebook Page](https://www.facebook.com/ethical.hack.group)
 
 * [Facebook Group](https://www.facebook.com/groups/ethical.hack.group/)
 
 
+***
+
+## 💻 Support this project
+
+If you find this tool useful, consider supporting my work:  
+[❤️ Sponsor BullsEye](https://github.com/sponsors/BullsEye0)
+
+Get the full hands-on course:  
+**[Ethical Hacking Complete Course – Zero to Expert](https://www.udemy.com/course/ethical-hacking-complete-course-zero-to-expert/?couponCode=BULLSEYE)**
+
+(supports me directly as your instructor!)
+
+Professional penetration testing. Zero to Expert.  
+✅ Kali Linux + Parrot OS  
+✅ Real-world hacking scenarios  
+✅ All major tools & techniques  
+✅ Beginner-friendly  
+
+HACKING IS NOT A HOBBY, BUT A WAY OF LIFE 🎯
 
 ***
 
@@ -146,5 +177,7 @@ I have developed Dorks Eye because I am passionate about this.
 Donations are one of the many ways to support what I do.
 
 [Donate](https://hackingpassion.com/donate/)
+
+BAT: Use [Brave](https://brave.com/bul891) and donate on any of my web pages/profiles
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=R96YN2PUS8V8W)
