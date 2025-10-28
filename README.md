@@ -3,7 +3,7 @@
 
 Dorks Eye is a script I made in Python 3. With this tool, you can easily find Google Dorks. Dorks Eye collects potentially vulnerable web pages and applications on the Internet or other interesting info that search engines pick up.
 
-## Why v2.0?
+## Why this major update v2.0?
 
 Google doesn't like automated searches anymore. They started blocking them more aggressively. That's annoying.
 
