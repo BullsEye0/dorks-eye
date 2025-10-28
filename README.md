@@ -171,9 +171,8 @@ If you find this tool useful, consider supporting my work:
 
 **Want to learn ethical hacking from scratch?**
 
-I teach a complete hands-on course. 27+ hours of practical content, 150+ lessons, 120+ real hacking scenarios. From zero to expert level. You'll learn to use Kali Linux, Parrot OS Security, and 40+ professional tools the way they're meant to be used.
-
-No programming knowledge required. No theory bullshit. Just practical techniques that work.
+Want to master ethical hacking from zero to expert?
+Check out my complete ethical hacking course:
 
 **[Ethical Hacking Complete Course – Zero to Expert](https://www.udemy.com/course/ethical-hacking-complete-course-zero-to-expert/?couponCode=BULLSEYE)**  
 (This link supports me directly as your instructor)
