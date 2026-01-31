@@ -12,7 +12,6 @@
 #   ███    ███   ███    ███         YouTube: https://www.youtube.com/@HackingPassion
 # ▄█████████▀    ██████████         LBRY: https://lbry.tv/$/invite/@hackingpassion:9
 #                                   Github Sponsor: https://github.com/sponsors/BullsEye0
-#                                   Ethical Hacking Course: https://www.udemy.com/course/ethical-hacking-complete-course-zero-to-expert/?couponCode=DECEMBER25
 #          Bulls Eye..!
 # ===== #
 
