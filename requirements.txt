@@ -1,4 +1,4 @@
-duckduckgo-search
+ddgs
 googlesearch-python
 requests
 beautifulsoup4
