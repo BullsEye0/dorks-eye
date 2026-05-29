@@ -8,23 +8,23 @@
 #   ███    ███   ███    █▀          GitHub: https://github.com/BullsEye0
 #  ▄███▄▄▄██▀   ▄███▄▄▄             LinkedIn: https://www.linkedin.com/in/jolandadekoff
 # ▀▀███▀▀▀██▄  ▀▀███▀▀▀             Facebook Group: https://www.facebook.com/groups/hack.passion/
-#   ███    ██▄   ███    █▄          Facebook: https://www.facebook.com/profile.php?id=100069546190609
+#   ███    ██▄   ███    █▄          Facebook Page: https://www.facebook.com/ethical.hack.group/
 #   ███    ███   ███    ███         YouTube: https://www.youtube.com/@HackingPassion
 # ▄█████████▀    ██████████         LBRY: https://lbry.tv/$/invite/@hackingpassion:9
-#                                   Github Sponsor: https://github.com/sponsors/BullsEye0
+#                                   GitHub Sponsor: https://github.com/sponsors/BullsEye0
 #          Bulls Eye..!
 # ===== #
 
 # ===== #
-# Created April | Copyright (c) 2020 Jolanda de Koff.
+# Created April | Copyright (c) 2020 - 2026 Jolanda de Koff.
 # Updated October 2025 - Multi Search Engine
 # ===== #
 
 ########################################################################
 
 # A notice to all nerds and n00bs...
-# If you will copy the developer's work it will not make you a hacker..!
-# Respect all developers, we doing this because it's fun...
+# If you copy the developer's work, it will not make you a hacker..!
+# Respect all developers, we're doing this because it's fun...
 
 ########################################################################
 
