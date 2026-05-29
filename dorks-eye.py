@@ -17,7 +17,7 @@
 
 # ===== #
 # Created April | Copyright (c) 2020 - 2026 Jolanda de Koff.
-# Updated October 2025 - Multi Search Engine
+# Updated May 2026 - Multi Search Engine
 # ===== #
 
 ########################################################################
@@ -117,7 +117,7 @@ def bing(dork, amount):
     results = []
     try:
         with DDGS() as ddgs:
-            for r in ddgs.text(dork, backend="html", max_results=amount):
+            for r in ddgs.text(dork, backend="bing", max_results=amount):
                 results.append(r['href'])
     except Exception as e:
         print(f"[!] Bing: {str(e)}")
