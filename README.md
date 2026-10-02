@@ -72,6 +72,28 @@ Dorks Eye is written for Python 3. Clone the git repository and install the requ
 
 ****
 
+# Installing Dorks Eye with pip (easiest)
+
+You can install Dorks Eye directly from GitHub with pip:
+
+```bash
+pip install git+https://github.com/BullsEye0/dorks-eye.git
+```
+
+Or, for an editable install (great for development — your local changes are used immediately):
+
+```bash
+pip install -e git+https://github.com/BullsEye0/dorks-eye.git#egg=dorks-eye
+```
+
+This automatically downloads the package, installs all dependencies (`ddgs`, `googlesearch-python`, `requests`, `beautifulsoup4`), and adds a `dorks-eye` command to your PATH.
+
+After installing, just run:
+
+```bash
+dorks-eye
+```
+
 # Installing Dorks Eye in a Virtual Environment
 
 Recent changes in Parrot OS and Kali Linux require Dorks Eye to be installed in an isolated Python environment to avoid dependency conflicts. Follow these steps:

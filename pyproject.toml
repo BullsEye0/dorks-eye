@@ -1,0 +1,42 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "dorks-eye"
+version = "2.0.0"
+description = "Google Hacking Dork Scraping and Searching Script - with 5 Search Engines"
+readme = "README.md"
+license = { file = "LICENSE" }
+authors = [
+    { name = "Jolanda de Koff", email = "contact@hackingpassion.com" },
+]
+keywords = ["google-dorks", "dorks", "osint", "recon", "hacking", "security", "search"]
+classifiers = [
+    "Development Status :: 5 - Production/Stable",
+    "Environment :: Console",
+    "Intended Audience :: Information Technology",
+    "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "Topic :: Security",
+]
+requires-python = ">=3.8"
+# Single source of truth: dependencies are read from requirements.txt
+dynamic = ["dependencies"]
+
+[project.urls]
+Homepage = "https://hackingpassion.com"
+Repository = "https://github.com/BullsEye0/dorks-eye"
+"Dork List" = "https://github.com/BullsEye0/google_dork_list"
+
+[project.scripts]
+dorks-eye = "dorks_eye:main"
+
+[tool.setuptools]
+py-modules = ["dorks_eye"]
+
+[tool.setuptools.dynamic]
+# Single source of truth: dependencies live in requirements.txt
+dependencies = { file = ["requirements.txt"] }

@@ -197,7 +197,8 @@ def search_engine(engine, dork, amount):
         return []
 
 
-try:
+def _ask_engine_and_logfile():
+    """Ask for search engine and logfile. Returns (engine_choice, save_output, logfile)."""
     print ("\n" + "  " + "»" * 78 + "\n")
     print ("[~] Choose Your Search Engine:\n")
     print ("[1] DuckDuckGo - Reliable, privacy-focused")
@@ -211,14 +212,12 @@ try:
 
     data = input("[+] Do You Like To Save The Output In A File? (Y/N) ").strip()
     l0g = ("")
-
-except KeyboardInterrupt:
-        print ("\n")
-        print ("\033[1;91m[!] User Interruption Detected..!\033[0")
-        time.sleep(0.5)
-        print ("\n\n\t\033[1;91m[!] I like to See Ya, Hacking \033[0m😃\n\n")
-        time.sleep(0.5)
-        sys.exit(1)
+    if data.lower().startswith("y"):
+        l0g = input("[~] Give The File a Name: ")
+    else:
+        print ("[!] Saving is Skipped...")
+        print ("\n" + "  " + "»" * 78 + "\n")
+    return engine_choice, data, l0g
 
 
 def logger(data):
@@ -228,15 +227,10 @@ def logger(data):
     file.close()
 
 
-if data.lower().startswith("y"):
-    l0g = input("[~] Give The File a Name: ")
-else:
-    print ("[!] Saving is Skipped...")
-    print ("\n" + "  " + "»" * 78 + "\n")
-
-
 def dorks():
+    global l0g
     try:
+        engine_choice, data, l0g = _ask_engine_and_logfile()
         dork = input("\n[+] Enter The Dork Search Query: ")
         amount = int(input("[+] Enter The Number Of Websites To Display: "))
         print ("\n ")
