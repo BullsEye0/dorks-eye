@@ -1,0 +1,19 @@
+*.pyc
+.env
+*/__pycache__/*
+
+# `virtualenv .` produces a lot of crap.
+# This lines below filter it so that it is never commited
+# to the repo.
+
+venv3
+venv
+bin/
+include/
+lib/
+local/
+pip-selfcheck.json
+share/
+
+# `coverage` produces some side products
+.coverage
